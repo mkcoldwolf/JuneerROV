@@ -1,0 +1,2 @@
+camera:controller:user_interface
+-DCATKIN_DEVEL_PREFIX=/home/june/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/june/catkin_ws/install -G Unix Makefiles
